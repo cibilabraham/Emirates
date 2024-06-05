@@ -137,8 +137,8 @@ body {
 }
 .btn-secondary,
 .btn-secondary:active {
-  background-color: #a44b13 !important;
-  border-color: #a44b13 !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
   color: #ffffff !important;
   box-shadow: 0 2px 2px 0 rgba(0, 0, 0, 0.2);
 }
@@ -314,7 +314,7 @@ body {
 .btn-secondary-outline:active {
   background-color: transparent !important;
   border-color: transparent;
-  color: #a44b13;
+  color: #000;
 }
 .btn-secondary-outline:hover,
 .btn-secondary-outline:focus,
@@ -328,8 +328,8 @@ body {
 .btn-secondary-outline.disabled,
 .btn-secondary-outline:disabled {
   color: #ffffff !important;
-  background-color: #a44b13 !important;
-  border-color: #a44b13 !important;
+  background-color: #000 !important;
+  border-color: #000 !important;
 }
 .btn-info-outline,
 .btn-info-outline:active {
@@ -461,7 +461,7 @@ body {
   color: #000 !important;
 }
 .text-secondary {
-  color: #a44b13 !important;
+  color: #000 !important;
 }
 .text-success {
   color: #e5be8a !important;
@@ -489,7 +489,7 @@ a.text-primary.active {
 a.text-secondary:hover,
 a.text-secondary:focus,
 a.text-secondary.active {
-  color: #a44b13 !important;
+  color: #000 !important;
 }
 a.text-success:hover,
 a.text-success:focus,
@@ -667,7 +667,7 @@ blockquote {
 .xdsoft_datetimepicker .xdsoft_calendar td:hover,
 .xdsoft_datetimepicker .xdsoft_timepicker .xdsoft_time_box > div > div:hover {
   color: #ffffff !important;
-  background: #a44b13 !important;
+  background: #000 !important;
   box-shadow: none !important;
 }
 .lazy-bg {
@@ -1242,10 +1242,7 @@ button:focus {
 .cid-sVeX2UspK3 img {
   display: block;
   width: 100%;
-  -webkit-mask-image: url("../../images/group1.svg");
-  -webkit-mask-size: contain;
-  -webkit-mask-repeat: no-repeat;
-  -webkit-mask-position: center;
+ 
 }
 .cid-sVeX2UspK3 .svg1 {
   position: absolute;
@@ -1330,7 +1327,7 @@ button:focus {
   border-color: #75dbcd !important;
 }
 .cid-sVeX2UspK3 .st0 {
-  fill: #a44b13;
+  fill: #000;
 }
 .cid-sVeX2UspK3 .st1 {
   fill: #5f0e38;
@@ -1365,7 +1362,7 @@ button:focus {
 .cid-sUFxeGbnLp {
   padding-top: 5rem;
   padding-bottom: 2rem;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sUFxeGbnLp .item-wrapper {
   width: 100%;
@@ -1534,7 +1531,7 @@ button:focus {
 .cid-sVeW3EjJH8 {
   padding-top: 2rem;
   padding-bottom: 5rem;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sVeW3EjJH8 .panel-title-edit {
   color: #ffffff;
@@ -1773,7 +1770,7 @@ button:focus {
 .cid-sUFBBHrUXI {
   padding-top: 5rem;
   padding-bottom: 5rem;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sUFBBHrUXI .mbr-section-subtitle {
   margin-bottom: 10px;
@@ -1802,7 +1799,7 @@ button:focus {
 .cid-sUFqE91F0p {
   padding-top: 2rem;
   padding-bottom: 5rem;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sUFqE91F0p .item-wrapper {
   width: 100%;
@@ -1869,7 +1866,7 @@ button:focus {
 }
 .cid-sUFqE91F0p .mobi-mbri {
   font-size: 50px;
-  color: #a44b13;
+  color: #000;
 }
 .cid-sUFqE91F0p .mbr-section-subtitle {
   margin-bottom: 20px;
@@ -1912,7 +1909,7 @@ button:focus {
   background-position: center;
 }
 .cid-sUFqE91F0p .card11 {
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sUFqE91F0p .card12 {
   background-color: #511730;
@@ -2052,7 +2049,7 @@ button:focus {
   color: #e5be8a;
 }
 .cid-sUFqzJDL30 .icon3 {
-  color: #a44b13;
+  color: #000;
 }
 .cid-sUFqzJDL30 .icon4 {
   color: #000;
@@ -2149,7 +2146,7 @@ button:focus {
 }
 .cid-sUFqI0y0ut .mobi-mbri {
   font-size: 50px;
-  color: #a44b13;
+  color: #000;
 }
 .cid-sUFqI0y0ut .container {
   width: 95%;
@@ -2202,7 +2199,7 @@ button:focus {
 .cid-sVeWaVf1ti {
   padding-top: 5rem;
   padding-bottom: 0rem;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sVeWaVf1ti img {
   height: 100px;
@@ -2232,7 +2229,7 @@ button:focus {
   padding-top: 5rem;
   padding-bottom: 5rem;
   overflow: hidden;
-  background-color: #a44b13;
+  background-color: #000;
 }
 .cid-sUFqIH3f9S .item:focus,
 .cid-sUFqIH3f9S span:focus {
